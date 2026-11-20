@@ -1,7 +1,7 @@
 // Çevrimdışı çalışma için service worker.
 // - Uygulama dosyaları (index.html, assets, simgeler): önbellekten, yoksa ağdan
 // - Veri (report.json, puzzles.json): önce ağ (güncel veri), ağ yoksa önbellek
-const VERSION = "20261121002338";
+const VERSION = "20261121004305";
 // Önbellek adı siteye göre ayrılır: aynı alan adındaki diğer sitenin (ör. /chess-panel-serkan/)
 // önbelleği silinmesin.
 const PREFIX = "satranc:" + new URL(self.registration.scope).pathname + ":";

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T00:23:33",
+ "generated": "2026-11-21T00:43:00",
  "games": 500,
  "total_games": 500,
  "username": "serkannn08",
@@ -122,6 +122,7 @@
   "won": 175,
   "drawn": 1,
   "lost": 95,
+  "lost_on_time": 75,
   "rate": 64.6
  },
  "comeback": {
@@ -1470,14 +1471,14 @@
     "day": "Salı",
     "tasks": [
      "Bulmaca: Bedava taşları görme — 15 adet",
-     "Kaybettiğin 1 oyunu baştan sona kendin incele, sonra motorla karşılaştır"
+     "Süreden kaybettiğin 1 oyunu incele: zaman nerede gitti, nerede sadeleştirebilirdin?"
     ]
    },
    {
     "day": "Çarşamba",
     "tasks": [
      "Açılış alıştırmaları: tekrar eden açılış hataların",
-     "Zayıf açılışlar: Mieses Opening (beyaz)"
+     "Açılış kuralı: 1. d3 e5 sonrasında Bg5 değil, Nf3"
     ]
    },
    {
@@ -1490,15 +1491,15 @@
    {
     "day": "Cuma",
     "tasks": [
-     "Bulmaca: Taş güvenliği — 10 adet",
-     "Kazandığın ama zorlandığın 1 oyunu incele"
+     "5 blitz oyun (3+0 ya da 5+0): her hamlede kontrol listesini uygula",
+     "Blitz oyunlarından birinde yaptığın büyük hatayı bul ve nedenini bir cümleyle yaz"
     ]
    },
    {
     "day": "Cumartesi",
     "tasks": [
-     "3 bullet oyun: her hamlede kontrol listesini uygula (aşağıda)",
-     "Oyunlardan sonra fetch + analiz"
+     "Bullet: keyfine oyna, yalnızca 'öndeysen taş değiş' kuralına uy",
+     "Hafta sonunda rapor güncellenir: bu haftanın oyunları da analize girer"
     ]
    },
    {
@@ -1510,9 +1511,11 @@
    }
   ],
   "checklist": [
-   "Her hamleden önce iki soru: 'Hangi taşım korumasız?' ve 'Rakibin son hamlesi neye saldırıyor?'",
-   "Her hamlede rakibin korumasız taşlarını tara.",
-   "Rakip her hamle yaptığında 'Bu hamle neyi korumasız bıraktı?' diye sor."
+   "Hamleyi oynamadan önce tek bakış: oynadığım taş ya da arkada bıraktığım taş korumasız mı kalıyor?",
+   "Rakip bir taşı korumasız bıraktıysa önce onu al.",
+   "Öndeysen taş değiş ve sadeleştir: basit pozisyon saatte kazandırır (kazanılmış 75 oyunu süreden kaybettin).",
+   "Açılışta önceden hamle (premove) yapma; ilk hamlelerde rakibin cevabına bak.",
+   "Zayıf açılış: Mieses Opening (beyaz)."
   ]
  }
 }
