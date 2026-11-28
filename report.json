@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T19:02:31",
+ "generated": "2026-11-28T20:11:54",
  "games": 500,
  "total_games": 500,
  "username": "serkannn08",
@@ -8,78 +8,78 @@
  "main_time_class": "bullet",
  "results": {
   "white": {
-   "win": 120,
-   "loss": 129
+   "loss": 127,
+   "win": 123
   },
   "all": {
-   "win": 251,
-   "loss": 246,
+   "loss": 242,
+   "win": 255,
    "draw": 3
   },
   "black": {
-   "loss": 117,
-   "win": 131,
+   "win": 132,
+   "loss": 115,
    "draw": 3
   }
  },
- "avg_accuracy": 82.0,
+ "avg_accuracy": 82.1,
  "per_game": {
   "inaccuracy": 2.01,
-  "mistake": 0.92,
-  "blunder": 1.93
+  "mistake": 0.91,
+  "blunder": 1.91
  },
- "missed_per_game": 1.18,
+ "missed_per_game": 1.15,
  "phases": {
   "opening": {
-   "moves": 5836,
-   "accuracy": 79.3,
-   "blunder_rate": 6.6,
+   "moves": 5826,
+   "accuracy": 79.2,
+   "blunder_rate": 6.7,
    "mistake_rate": 3.8,
-   "share_of_blunders": 40.1
+   "share_of_blunders": 40.7
   },
   "middlegame": {
-   "moves": 5928,
-   "accuracy": 83.1,
-   "blunder_rate": 8.4,
-   "mistake_rate": 3.4,
-   "share_of_blunders": 51.7
+   "moves": 5902,
+   "accuracy": 83.4,
+   "blunder_rate": 8.2,
+   "mistake_rate": 3.3,
+   "share_of_blunders": 50.7
   },
   "endgame": {
-   "moves": 2134,
+   "moves": 2116,
    "accuracy": 90.9,
-   "blunder_rate": 3.7,
+   "blunder_rate": 3.9,
    "mistake_rate": 1.8,
-   "share_of_blunders": 8.3
+   "share_of_blunders": 8.6
   }
  },
  "clock_buckets": [
   {
    "bucket": "<3 sn",
-   "moves": 481,
-   "accuracy": 91.1,
-   "blunder_rate": 5.2
+   "moves": 471,
+   "accuracy": 91.3,
+   "blunder_rate": 5.3
   },
   {
    "bucket": "3 sn-6 sn",
-   "moves": 494,
-   "accuracy": 88.7,
-   "blunder_rate": 6.3
+   "moves": 492,
+   "accuracy": 88.5,
+   "blunder_rate": 6.5
   },
   {
    "bucket": "6 sn-18 sn",
-   "moves": 2224,
-   "accuracy": 86.7,
-   "blunder_rate": 6.6
+   "moves": 2198,
+   "accuracy": 86.9,
+   "blunder_rate": 6.5
   },
   {
    "bucket": "18 sn-36 sn",
-   "moves": 3553,
-   "accuracy": 84.1,
-   "blunder_rate": 7.6
+   "moves": 3552,
+   "accuracy": 84.4,
+   "blunder_rate": 7.3
   },
   {
    "bucket": "36 sn+",
-   "moves": 7146,
+   "moves": 7131,
    "accuracy": 79.8,
    "blunder_rate": 6.9
   }
@@ -87,52 +87,52 @@
  "think_time": [
   {
    "bucket": "<0.3 sn",
-   "moves": 865,
-   "blunder_rate": 4.6,
-   "mistake_rate": 2.0
+   "moves": 861,
+   "blunder_rate": 4.4,
+   "mistake_rate": 1.9
   },
   {
    "bucket": "0.3 sn-1 sn",
-   "moves": 1684,
+   "moves": 1680,
    "blunder_rate": 6.1,
    "mistake_rate": 2.4
   },
   {
    "bucket": "1 sn-3 sn",
-   "moves": 4235,
-   "blunder_rate": 7.3,
-   "mistake_rate": 3.0
+   "moves": 4218,
+   "blunder_rate": 7.2,
+   "mistake_rate": 2.9
   },
   {
    "bucket": "3 sn-6 sn",
-   "moves": 1058,
-   "blunder_rate": 9.4,
+   "moves": 1044,
+   "blunder_rate": 9.2,
    "mistake_rate": 4.7
   },
   {
    "bucket": "6 sn+",
-   "moves": 220,
-   "blunder_rate": 12.3,
-   "mistake_rate": 3.2
+   "moves": 215,
+   "blunder_rate": 12.1,
+   "mistake_rate": 2.8
   }
  ],
- "timeout_losses": 152,
+ "timeout_losses": 149,
  "conversion": {
   "winning_games": 273,
-  "won": 182,
+  "won": 185,
   "drawn": 1,
-  "lost": 90,
-  "lost_on_time": 70,
-  "rate": 66.7
+  "lost": 87,
+  "lost_on_time": 67,
+  "rate": 67.8
  },
  "comeback": {
-  "losing_games": 430,
-  "saved": 206,
-  "rate": 47.9
+  "losing_games": 428,
+  "saved": 208,
+  "rate": 48.6
  },
  "loss_reasons": {
-  "süre": 152,
-  "mat": 85,
+  "süre": 149,
+  "mat": 84,
   "bırakma": 8,
   "terk": 1
  },
@@ -150,7 +150,7 @@
   {
    "bucket": "±100",
    "games": 493,
-   "score": 50.0
+   "score": 50.8
   },
   {
    "bucket": "100-200 güçlü",
@@ -162,42 +162,42 @@
   {
    "color": "black",
    "opening": "French Defense",
-   "games": 152,
-   "score": 54.3,
+   "games": 151,
+   "score": 54.6,
    "win": 81,
-   "loss": 68,
-   "accuracy": 80.9,
-   "opening_blunders_per_game": 1.18
+   "loss": 67,
+   "accuracy": 81.0,
+   "opening_blunders_per_game": 1.19
   },
   {
    "color": "white",
    "opening": "Mieses Opening",
-   "games": 128,
-   "score": 45.3,
-   "win": 58,
-   "loss": 70,
-   "accuracy": 82.7,
-   "opening_blunders_per_game": 1.16
+   "games": 131,
+   "score": 45.8,
+   "win": 60,
+   "loss": 71,
+   "accuracy": 82.8,
+   "opening_blunders_per_game": 1.18
   },
   {
    "color": "white",
    "opening": "Queens Pawn Opening",
-   "games": 47,
-   "score": 57.4,
-   "win": 27,
-   "loss": 20,
-   "accuracy": 83.9,
-   "opening_blunders_per_game": 1.21
+   "games": 45,
+   "score": 57.8,
+   "win": 26,
+   "loss": 19,
+   "accuracy": 84.2,
+   "opening_blunders_per_game": 1.22
   },
   {
    "color": "black",
    "opening": "Queens Pawn Opening Horwitz Defense",
-   "games": 39,
-   "score": 51.3,
-   "win": 20,
+   "games": 38,
+   "score": 50.0,
+   "win": 19,
    "loss": 19,
-   "accuracy": 81.3,
-   "opening_blunders_per_game": 1.18
+   "accuracy": 81.0,
+   "opening_blunders_per_game": 1.21
   },
   {
    "color": "white",
@@ -230,16 +230,6 @@
    "opening_blunders_per_game": 2.2
   },
   {
-   "color": "white",
-   "opening": "Trompowsky Attack",
-   "games": 8,
-   "score": 62.5,
-   "win": 5,
-   "loss": 3,
-   "accuracy": 86.1,
-   "opening_blunders_per_game": 0.62
-  },
-  {
    "color": "black",
    "opening": "Kings Fianchetto Opening",
    "games": 8,
@@ -253,11 +243,11 @@
  "monthly": [
   {
    "month": "2026-09",
-   "games": 20,
+   "games": 9,
    "rating_end": 665,
-   "accuracy": 81.4,
-   "score": 45.0,
-   "blunders_per_game": 2.1
+   "accuracy": 83.5,
+   "score": 55.6,
+   "blunders_per_game": 1.67
   },
   {
    "month": "2026-10",
@@ -269,11 +259,11 @@
   },
   {
    "month": "2026-11",
-   "games": 211,
-   "rating_end": 730,
-   "accuracy": 82.3,
-   "score": 49.5,
-   "blunders_per_game": 1.85
+   "games": 222,
+   "rating_end": 769,
+   "accuracy": 82.4,
+   "score": 50.7,
+   "blunders_per_game": 1.82
   }
  ],
  "worst_blunders": [
@@ -669,23 +659,6 @@
    "clock": 21.9
   },
   {
-   "game": "https://www.chess.com/game/live/184531534298",
-   "ply": 38,
-   "move_no": 19,
-   "played": "f6",
-   "uci": "f7f6",
-   "best_uci": "b4g4",
-   "opening": "Queens Pawn Opening Horwitz Defense",
-   "result": "win",
-   "best": "Qxg4",
-   "pv": "19...Qxg4 20. hxg4 Rxg7 21. Rb1 Nc5 22. Rb4 Rg6 23. Rf4",
-   "fen": "rn2k1r1/1p1n1pBp/p3p3/8/1q4Q1/7P/P1P2PP1/3R2K1 b q - 0 19",
-   "win_before": 97.0,
-   "win_after": 6.3,
-   "phase": "middlegame",
-   "clock": 24.0
-  },
-  {
    "game": "https://www.chess.com/game/live/185981726298",
    "ply": 54,
    "move_no": 27,
@@ -786,64 +759,81 @@
    "win_after": 2.5,
    "phase": "middlegame",
    "clock": 28.7
+  },
+  {
+   "game": "https://www.chess.com/game/live/185981964582",
+   "ply": 45,
+   "move_no": 23,
+   "played": "Qd7+",
+   "uci": "f7d7",
+   "best_uci": "f7b7",
+   "opening": "Richter Veresov Attack",
+   "result": "win",
+   "best": "Qb7",
+   "pv": "23. Qb7 Kxe5 24. Qxb5 Rc4 25. Ne2 Kf6 26. h4 Rxc2",
+   "fen": "2r3r1/5Q1p/3kp3/1b1pN3/1p6/8/P1P2PPP/4K1NR w K - 1 23",
+   "win_before": 96.8,
+   "win_after": 8.5,
+   "phase": "middlegame",
+   "clock": 28.3
   }
  ],
  "motifs": [
   {
    "motif": "hanging",
    "name": "Taş bıraktı",
-   "count": 403,
-   "per_100": 80.6,
-   "in_lost_games": 139,
-   "cost": 18403
+   "count": 396,
+   "per_100": 79.2,
+   "in_lost_games": 136,
+   "cost": 17948
   },
   {
    "motif": "missed_capture",
    "name": "Bedava taşı almadı",
-   "count": 176,
-   "per_100": 35.2,
-   "in_lost_games": 57,
-   "cost": 9221
+   "count": 175,
+   "per_100": 35.0,
+   "in_lost_games": 55,
+   "cost": 9176
   },
   {
    "motif": "unpunished",
    "name": "Rakibin hatasını cezalandırmadı",
-   "count": 226,
-   "per_100": 45.2,
-   "in_lost_games": 65,
-   "cost": 8377
+   "count": 218,
+   "per_100": 43.6,
+   "in_lost_games": 64,
+   "cost": 8148
   },
   {
    "motif": "positional",
    "name": "Pozisyonel / uzun vadeli hata",
-   "count": 187,
-   "per_100": 37.4,
-   "in_lost_games": 68,
-   "cost": 4546
+   "count": 190,
+   "per_100": 38.0,
+   "in_lost_games": 67,
+   "cost": 4612
   },
   {
    "motif": "allowed_tactic",
    "name": "Rakibin tehdidini / kombinezonunu görmedi",
-   "count": 110,
-   "per_100": 22.0,
+   "count": 111,
+   "per_100": 22.2,
    "in_lost_games": 48,
-   "cost": 4275
+   "cost": 4303
   },
   {
    "motif": "wasted_advantage",
    "name": "Üstün pozisyonda gevşedi",
-   "count": 109,
-   "per_100": 21.8,
-   "in_lost_games": 41,
-   "cost": 4203
+   "count": 103,
+   "per_100": 20.6,
+   "in_lost_games": 37,
+   "cost": 4000
   },
   {
    "motif": "allowed_mate",
    "name": "Mat tehdidini görmedi",
-   "count": 50,
-   "per_100": 10.0,
-   "in_lost_games": 29,
-   "cost": 2839
+   "count": 49,
+   "per_100": 9.8,
+   "in_lost_games": 28,
+   "cost": 2779
   },
   {
    "motif": "missed_fork",
@@ -856,10 +846,10 @@
   {
    "motif": "allowed_fork",
    "name": "Çatala yakalandı",
-   "count": 59,
-   "per_100": 11.8,
-   "in_lost_games": 24,
-   "cost": 2179
+   "count": 58,
+   "per_100": 11.6,
+   "in_lost_games": 23,
+   "cost": 2150
   },
   {
    "motif": "missed_mate",
@@ -870,20 +860,20 @@
    "cost": 1491
   },
   {
+   "motif": "allowed_pin",
+   "name": "Açmaz/şişe yakalandı",
+   "count": 17,
+   "per_100": 3.4,
+   "in_lost_games": 4,
+   "cost": 786
+  },
+  {
    "motif": "missed_pin",
    "name": "Açmazı kaçırdı",
    "count": 18,
    "per_100": 3.6,
    "in_lost_games": 9,
    "cost": 746
-  },
-  {
-   "motif": "allowed_pin",
-   "name": "Açmaz/şişe yakalandı",
-   "count": 15,
-   "per_100": 3.0,
-   "in_lost_games": 3,
-   "cost": 710
   }
  ],
  "opening_mistakes": [
@@ -921,12 +911,12 @@
    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
    "color": "black",
    "opening": "French Defense Knight Variation",
-   "times": 68,
+   "times": 66,
    "played": {
     "c6": 43,
     "c5": 1,
     "Bb4": 5,
-    "Bc5": 6,
+    "Bc5": 4,
     "Nf6": 3,
     "b6": 1,
     "d6": 1,
@@ -945,26 +935,26 @@
    "line": "1. e4 e6 2. Nf3",
    "ply": 4,
    "results": {
-    "win": 37,
+    "win": 36,
     "draw": 0,
-    "loss": 31
+    "loss": 30
    },
-   "cost": 269.3,
+   "cost": 269.9,
    "game": "https://www.chess.com/game/live/187448050924"
   },
   {
    "fen": "rnbqkbnr/pppp1ppp/4p3/8/8/3P4/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
    "color": "white",
    "opening": "Mieses Opening",
-   "times": 16,
+   "times": 19,
    "played": {
     "Bg5": 6,
     "Bf4": 1,
-    "e4": 3,
+    "e4": 4,
     "h4": 2,
     "d4": 1,
     "f4": 1,
-    "f3": 2
+    "f3": 4
    },
    "usual": "Bg5",
    "usual_count": 6,
@@ -976,9 +966,9 @@
    "line": "1. d3 e6",
    "ply": 3,
    "results": {
-    "win": 8,
+    "win": 10,
     "draw": 0,
-    "loss": 8
+    "loss": 9
    },
    "cost": 268.4,
    "game": "https://www.chess.com/game/live/187282921498"
@@ -1017,9 +1007,9 @@
    "fen": "rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
    "color": "white",
    "opening": "Queens Pawn Opening Horwitz Defense",
-   "times": 11,
+   "times": 10,
    "played": {
-    "Bg5": 5,
+    "Bg5": 4,
     "e4": 2,
     "e3": 1,
     "c4": 1,
@@ -1027,8 +1017,8 @@
     "Bf4": 1
    },
    "usual": "Bg5",
-   "usual_count": 5,
-   "usual_drop": 47.4,
+   "usual_count": 4,
+   "usual_drop": 47.5,
    "best": "e4",
    "best_uci": "e2e4",
    "pv": "2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Ne7",
@@ -1038,9 +1028,9 @@
    "results": {
     "win": 5,
     "draw": 0,
-    "loss": 6
+    "loss": 5
    },
-   "cost": 236.9,
+   "cost": 190.1,
    "game": "https://www.chess.com/game/live/186410507502"
   },
   {
@@ -1073,10 +1063,10 @@
    "fen": "rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
    "color": "white",
    "opening": "Mieses Opening",
-   "times": 39,
+   "times": 38,
    "played": {
     "Bg5": 22,
-    "f3": 4,
+    "f3": 3,
     "Bf4": 2,
     "e4": 3,
     "g3": 2,
@@ -1097,36 +1087,10 @@
    "results": {
     "win": 14,
     "draw": 0,
-    "loss": 25
+    "loss": 24
    },
    "cost": 116.0,
    "game": "https://www.chess.com/game/live/187208302190"
-  },
-  {
-   "fen": "rnbqkbnr/pp1p1ppp/2p1p3/8/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3",
-   "color": "black",
-   "opening": "French Defense Knight Variation",
-   "times": 16,
-   "played": {
-    "Qb6": 13,
-    "Qa5": 3
-   },
-   "usual": "Qb6",
-   "usual_count": 13,
-   "usual_drop": 7.6,
-   "best": "d5",
-   "best_uci": "d7d5",
-   "pv": "3...d5 4. exd5 exd5 5. Be2 Nf6 6. O-O Bd6 7. c4",
-   "win_before": 51.6,
-   "line": "1. e4 e6 2. Nf3 c6 3. Bc4",
-   "ply": 6,
-   "results": {
-    "win": 10,
-    "draw": 0,
-    "loss": 6
-   },
-   "cost": 99.1,
-   "game": "https://www.chess.com/game/live/187349567712"
   },
   {
    "fen": "rnbqkbnr/pp1p1ppp/2p1p3/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
@@ -1157,6 +1121,33 @@
    "game": "https://www.chess.com/game/live/187202589692"
   },
   {
+   "fen": "rnbqkbnr/pp1p1ppp/2p1p3/8/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3",
+   "color": "black",
+   "opening": "French Defense Knight Variation",
+   "times": 16,
+   "played": {
+    "Qb6": 12,
+    "Qa5": 3,
+    "b5": 1
+   },
+   "usual": "Qb6",
+   "usual_count": 12,
+   "usual_drop": 7.6,
+   "best": "d5",
+   "best_uci": "d7d5",
+   "pv": "3...d5 4. exd5 exd5 5. Be2 Nf6 6. O-O Bd6 7. c4",
+   "win_before": 51.6,
+   "line": "1. e4 e6 2. Nf3 c6 3. Bc4",
+   "ply": 6,
+   "results": {
+    "win": 9,
+    "draw": 0,
+    "loss": 7
+   },
+   "cost": 91.1,
+   "game": "https://www.chess.com/game/live/187349567712"
+  },
+  {
    "fen": "rnbqkbnr/pp1p1ppp/2p1p3/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3",
    "color": "black",
    "opening": "French Defense Queens Knight Variation",
@@ -1181,6 +1172,32 @@
    },
    "cost": 89.2,
    "game": "https://www.chess.com/game/live/187141345040"
+  },
+  {
+   "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3",
+   "color": "white",
+   "opening": "Kings Pawn Opening Leonardis Variation",
+   "times": 3,
+   "played": {
+    "Bg5": 2,
+    "Nc3": 1
+   },
+   "usual": "Bg5",
+   "usual_count": 2,
+   "usual_drop": 44.5,
+   "best": "Nf3",
+   "best_uci": "g1f3",
+   "pv": "3. Nf3 Nf6 4. g3 d5 5. exd5 Nxd5 6. Bg2 Bf5",
+   "win_before": 49.4,
+   "line": "1. d3 e5 2. e4 Nc6",
+   "ply": 5,
+   "results": {
+    "win": 2,
+    "draw": 0,
+    "loss": 1
+   },
+   "cost": 88.9,
+   "game": "https://www.chess.com/game/live/186726515854"
   },
   {
    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3",
@@ -1295,7 +1312,7 @@
    },
    "usual": "Qb6",
    "usual_count": 4,
-   "usual_drop": 10.8,
+   "usual_drop": 10.7,
    "best": "cxd4",
    "best_uci": "c5d4",
    "pv": "3...cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Nxc6 bxc6 7. e5",
@@ -1303,11 +1320,11 @@
    "line": "1. e4 e6 2. Nf3 c5 3. d4",
    "ply": 6,
    "results": {
-    "win": 2,
+    "win": 3,
     "draw": 0,
-    "loss": 2
+    "loss": 1
    },
-   "cost": 43.2,
+   "cost": 42.9,
    "game": "https://www.chess.com/game/live/186819611298"
   },
   {
@@ -1341,10 +1358,9 @@
    "fen": "rnb1kbnr/pp1p1ppp/1qp1p3/8/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 4",
    "color": "black",
    "opening": "French Defense Knight Variation",
-   "times": 4,
+   "times": 3,
    "played": {
-    "Bc5": 3,
-    "Nf6": 1
+    "Bc5": 3
    },
    "usual": "Bc5",
    "usual_count": 3,
@@ -1356,7 +1372,7 @@
    "line": "1. e4 e6 2. Nf3 c6 3. Bc4 Qb6 4. O-O",
    "ply": 8,
    "results": {
-    "win": 3,
+    "win": 2,
     "draw": 0,
     "loss": 1
    },
@@ -1413,57 +1429,229 @@
    },
    "cost": 36.3,
    "game": "https://www.chess.com/game/live/186347825806"
-  },
-  {
-   "fen": "rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2",
-   "color": "black",
-   "opening": "Queens Pawn Opening Horwitz Defense",
-   "times": 8,
-   "played": {
-    "c5": 6,
-    "d6": 1,
-    "a5": 1
-   },
-   "usual": "c5",
-   "usual_count": 6,
-   "usual_drop": 5.6,
-   "best": "Nf6",
-   "best_uci": "g8f6",
-   "pv": "2...Nf6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 c5 6. a3",
-   "win_before": 48.3,
-   "line": "1. d4 e6 2. c4",
-   "ply": 4,
-   "results": {
-    "win": 4,
-    "draw": 0,
-    "loss": 4
-   },
-   "cost": 33.6,
-   "game": "https://www.chess.com/game/live/187608505596"
   }
  ],
+ "progress": {
+  "time_control": "60",
+  "recent_days": 14,
+  "recent_label": "15 Kas – 28 Kas",
+  "recent_games": 78,
+  "base_games": 421,
+  "enough": true,
+  "rating": {
+   "before": 654,
+   "now": 769,
+   "base_start": 649
+  },
+  "metrics": [
+   {
+    "key": "accuracy",
+    "name": "Ortalama isabet",
+    "unit": "%",
+    "better": "higher",
+    "base": 82.1,
+    "recent": 82.2,
+    "trend": "same"
+   },
+   {
+    "key": "blunders_pg",
+    "name": "Oyun başına büyük hata",
+    "unit": "",
+    "better": "lower",
+    "base": 1.93,
+    "recent": 1.77,
+    "trend": "better"
+   },
+   {
+    "key": "hanging_100",
+    "name": "Taş bırakma (100 oyunda)",
+    "unit": "",
+    "better": "lower",
+    "base": 81.5,
+    "recent": 67.9,
+    "trend": "better"
+   },
+   {
+    "key": "unpunished_100",
+    "name": "Rakibin hatasını cezalandırmama (100 oyunda)",
+    "unit": "",
+    "better": "lower",
+    "base": 79.8,
+    "recent": 71.8,
+    "trend": "better"
+   },
+   {
+    "key": "conversion",
+    "name": "Kazanılmış oyunu çevirme",
+    "unit": "%",
+    "better": "higher",
+    "base": 66.4,
+    "recent": 76.3,
+    "trend": "better",
+    "base_n": 235,
+    "recent_n": 38
+   },
+   {
+    "key": "score",
+    "name": "Puan oranı",
+    "unit": "%",
+    "better": "higher",
+    "base": 49.9,
+    "recent": 59.0,
+    "trend": "better"
+   },
+   {
+    "key": "timeout_100",
+    "name": "Süreden kayıp (100 oyunda)",
+    "unit": "",
+    "better": "lower",
+    "base": 30.2,
+    "recent": 28.2,
+    "trend": "better"
+   },
+   {
+    "key": "think_mid",
+    "name": "Orta oyunda hamle başına düşünme",
+    "unit": "sn",
+    "better": null,
+    "base": 2.0,
+    "recent": 1.9,
+    "trend": null
+   },
+   {
+    "key": "time_left",
+    "name": "Oyun sonunda kalan süre (medyan)",
+    "unit": "sn",
+    "better": null,
+    "base": 8,
+    "recent": 10,
+    "trend": null
+   }
+  ],
+  "weekly": [
+   {
+    "week": "2026-W40",
+    "games": 27,
+    "accuracy": 78.4,
+    "blunders_pg": 2.15,
+    "hanging_100": 77.8,
+    "unpunished_100": 81.5,
+    "score": 66.7,
+    "timeout_100": 25.9,
+    "rating_end": 723
+   },
+   {
+    "week": "2026-W41",
+    "games": 48,
+    "accuracy": 79.8,
+    "blunders_pg": 1.98,
+    "hanging_100": 77.1,
+    "unpunished_100": 95.8,
+    "score": 43.8,
+    "timeout_100": 33.3,
+    "rating_end": 677
+   },
+   {
+    "week": "2026-W42",
+    "games": 44,
+    "accuracy": 81.8,
+    "blunders_pg": 2.14,
+    "hanging_100": 93.2,
+    "unpunished_100": 90.9,
+    "score": 53.4,
+    "timeout_100": 29.5,
+    "rating_end": 701
+   },
+   {
+    "week": "2026-W43",
+    "games": 58,
+    "accuracy": 81.8,
+    "blunders_pg": 1.84,
+    "hanging_100": 74.1,
+    "unpunished_100": 69.0,
+    "score": 51.7,
+    "timeout_100": 29.3,
+    "rating_end": 725
+   },
+   {
+    "week": "2026-W44",
+    "games": 141,
+    "accuracy": 83.4,
+    "blunders_pg": 1.83,
+    "hanging_100": 75.2,
+    "unpunished_100": 70.2,
+    "score": 51.1,
+    "timeout_100": 29.1,
+    "rating_end": 754
+   },
+   {
+    "week": "2026-W45",
+    "games": 76,
+    "accuracy": 83.0,
+    "blunders_pg": 1.88,
+    "hanging_100": 92.1,
+    "unpunished_100": 86.8,
+    "score": 46.7,
+    "timeout_100": 31.6,
+    "rating_end": 718
+   },
+   {
+    "week": "2026-W46",
+    "games": 36,
+    "accuracy": 82.1,
+    "blunders_pg": 1.94,
+    "hanging_100": 83.3,
+    "unpunished_100": 72.2,
+    "score": 44.4,
+    "timeout_100": 30.6,
+    "rating_end": 686
+   },
+   {
+    "week": "2026-W47",
+    "games": 28,
+    "accuracy": 82.6,
+    "blunders_pg": 1.68,
+    "hanging_100": 82.1,
+    "unpunished_100": 57.1,
+    "score": 64.3,
+    "timeout_100": 25.0,
+    "rating_end": 750
+   },
+   {
+    "week": "2026-W48",
+    "games": 41,
+    "accuracy": 81.3,
+    "blunders_pg": 1.95,
+    "hanging_100": 61.0,
+    "unpunished_100": 90.2,
+    "score": 53.7,
+    "timeout_100": 31.7,
+    "rating_end": 769
+   }
+  ]
+ },
  "plan": {
   "focus": [
    {
     "motif": "hanging",
     "title": "Taş güvenliği",
     "tip": "Her hamleden önce iki soru: 'Hangi taşım korumasız?' ve 'Rakibin son hamlesi neye saldırıyor?'",
-    "count": 403,
-    "per_100": 80.6
+    "count": 396,
+    "per_100": 79.2
    },
    {
     "motif": "missed_capture",
     "title": "Bedava taşları görme",
     "tip": "Her hamlede rakibin korumasız taşlarını tara.",
-    "count": 176,
-    "per_100": 35.2
+    "count": 175,
+    "per_100": 35.0
    },
    {
     "motif": "unpunished",
     "title": "Rakibin hatasını cezalandırma",
     "tip": "Rakip her hamle yaptığında 'Bu hamle neyi korumasız bıraktı?' diye sor.",
-    "count": 226,
-    "per_100": 45.2
+    "count": 218,
+    "per_100": 43.6
    }
   ],
   "weak_openings": [],
@@ -1521,7 +1709,7 @@
   "checklist": [
    "Hamleyi oynamadan önce tek bakış: oynadığım taş ya da arkada bıraktığım taş korumasız mı kalıyor?",
    "Rakip bir taşı korumasız bıraktıysa önce onu al.",
-   "Öndeysen taş değiş ve sadeleştir: basit pozisyon saatte kazandırır (kazanılmış 70 oyunu süreden kaybettin).",
+   "Öndeysen taş değiş ve sadeleştir: basit pozisyon saatte kazandırır (kazanılmış 67 oyunu süreden kaybettin).",
    "Açılışta önceden hamle (premove) yapma; ilk hamlelerde rakibin cevabına bak."
   ]
  }
